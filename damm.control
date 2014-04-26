@@ -1,0 +1,5 @@
+# damm extension
+comment = 'An implementation of the Damm check digit scheme'
+default_version = '1.0'
+relocatable = false
+
